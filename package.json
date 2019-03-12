@@ -3,6 +3,7 @@
   "description": "Clamp a value between two other values",
   "version": "1.0.1",
   "main": "index.js",
+  "typings": "index.d.ts",
   "browser": "index.js",
   "dependencies": {},
   "devDependencies": {
